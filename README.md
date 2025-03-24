@@ -1,4 +1,4 @@
-# automatic-google-calender-scheduling
+# google-calender-scripts
 Automatic Google Calender Scheduling
 
 ## 📘 README: Schedule a Google Apps Script to Run Automatically
